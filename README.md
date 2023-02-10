@@ -1,0 +1,2 @@
+# MMDet_HW2
+实战营作业2，使用MMDetection框架基于自定义数据集 balloon 训练实例分割模型，基于训练的模型在样例视频上完成color splash的效果制作
